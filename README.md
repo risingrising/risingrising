@@ -38,7 +38,7 @@ No model decides anything about a person. AI helps draft goals and review text, 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bridge-dark.svg">
-  <img alt="Bridge: invoices into the ERP. Before: finance typed every contractor invoice into the ERP by hand, about 15 fields and a PDF attachment each. After: 2 months from idea to production. A person still posts every invoice." src="assets/bridge-light.svg" width="100%">
+  <img alt="Bridge: invoices into the ERP. Before: invoices came by email, a person chased the late ones in DMs, then finance typed each into the ERP by hand, about 15 fields and a PDF. After: about 25 hours of manual entry saved every month. A bot collects the invoices and a person posts each one." src="assets/bridge-light.svg" width="100%">
 </picture>
 
 **Idea.** Take invoices straight from the payroll bot's archive, so the ERP draft is already filled in when finance opens it.

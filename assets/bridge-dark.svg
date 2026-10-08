@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Bridge: invoices into the ERP. Before: Finance typed every contractor invoice into the ERP by hand, about 15 fields and a PDF attachment each. After: 2 months from idea to production. A person still posts every invoice.">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Bridge: invoices into the ERP. Before: Invoices came by email, a person chased the late ones in DMs, then finance typed each into the ERP by hand, about 15 fields and a PDF. After: about 25 hours of manual entry saved every month. A bot collects the invoices and a person posts each one.">
 <defs><clipPath id="r"><rect width="880" height="250" rx="12"/></clipPath></defs>
 <g clip-path="url(#r)">
   <rect width="880" height="250" fill="#2b2725"/>
@@ -7,12 +7,12 @@
   <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
     <text x="40" y="54" fill="#fbf9f5" font-size="24" font-weight="700">Bridge: invoices into the ERP</text>
     <text x="40" y="96" fill="#b9b1a6" font-size="12" font-weight="600" letter-spacing="2">BEFORE</text>
-    <g fill="#d8d1c7" font-size="17"><text x="40" y="124">Finance typed every contractor invoice</text><text x="40" y="148">into the ERP by hand, about 15 fields</text><text x="40" y="172">and a PDF attachment each.</text></g>
+    <g fill="#d8d1c7" font-size="17"><text x="40" y="124">Invoices came by email, late ones were</text><text x="40" y="148">chased in DMs, then each was typed</text><text x="40" y="172">into the ERP: ~15 fields and a PDF.</text></g>
     <circle cx="480" cy="150" r="20" fill="#2b2725" stroke="#f2b84b" stroke-width="2"/>
     <path d="M471 150h16m-6-6 6 6-6 6" stroke="#f2b84b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="520" y="96" fill="#f2b84b" font-size="12" font-weight="600" letter-spacing="2">AFTER</text>
-    <text x="520" y="160" fill="#fbf9f5" font-size="56" font-weight="700">2 months</text>
-    <g fill="#d8d1c7" font-size="15"><text x="520" y="190">from idea to production.</text><text x="520" y="212">A person still posts every invoice.</text></g>
+    <text x="520" y="160" fill="#fbf9f5" font-size="56" font-weight="700">25 hours</text>
+    <g fill="#d8d1c7" font-size="15"><text x="520" y="190">of manual entry saved every month.</text><text x="520" y="212">A bot collects, a person posts.</text></g>
   </g>
 </g>
 <rect x=".5" y=".5" width="879" height="249" rx="11.5" fill="none" stroke="#2b2725"/>
