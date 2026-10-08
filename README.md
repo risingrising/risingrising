@@ -3,11 +3,7 @@
   <img alt="Denis Mironov, AI Automation Specialist. HR, finance, back office." src="assets/header-light.svg" width="100%">
 </picture>
 
-I build and run the in-house HR platform a ~330-person fintech runs its performance reviews on. It started as an employee dashboard and grew until it replaced an external review vendor. I also built the integration that puts contractor invoices into the company's ERP. Before this I spent five years in HR and recruiting and closed 120+ hires, so I know these processes from the inside.
-
-How the code gets written: I own the architecture, write the specs and review every change. Most of the code is written by AI agents. The last case is about how they work. The repos are private company code, so each case shows the problem, the decisions and what changed.
-
-The contribution graph below is almost all of that private work: about 12,500 contributions in the last year.
+The contribution graph below is almost all private company work: about 12,500 contributions in the last year.
 
 ## Cases
 
