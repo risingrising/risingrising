@@ -3,7 +3,10 @@
   <img alt="Denis Mironov, AI Automation Specialist. HR, finance, back office." src="assets/header-light.svg" width="100%">
 </picture>
 
-The contribution graph below is almost all private company work: about 12,500 contributions in the last year.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="12,543 contributions in the last year, almost all in private company repos. A marker shows March 11, 2026, when the HR platform started." src="assets/contributions-light.svg" width="100%">
+</picture>
 
 ## Cases
 
