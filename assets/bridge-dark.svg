@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Bridge: invoices into the ERP. Before: Finance typed every contractor invoice into the ERP by hand, about 15 fields and a PDF attachment each. After: 2 months from idea to production. A person still posts every invoice.">
+<defs><clipPath id="r"><rect width="880" height="250" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="880" height="250" fill="#2b2725"/>
+  <rect x="480" y="0" width="400" height="250" fill="#332e2b"/>
+  <g><rect x="796" y="24" width="50" height="50" rx="11.4" fill="#f2b84b"/><g transform="translate(803.4 27.3) scale(1.1)"><path d="M4.5 20.5A11.5 11.5 0 0 1 27.5 20.5" fill="none" stroke="#332e2b" stroke-width="3.6" stroke-linecap="round"/><circle cx="16" cy="25.2" r="3" fill="#332e2b"/></g></g>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="40" y="54" fill="#fbf9f5" font-size="24" font-weight="700">Bridge: invoices into the ERP</text>
+    <text x="40" y="96" fill="#b9b1a6" font-size="12" font-weight="600" letter-spacing="2">BEFORE</text>
+    <g fill="#d8d1c7" font-size="17"><text x="40" y="124">Finance typed every contractor invoice</text><text x="40" y="148">into the ERP by hand, about 15 fields</text><text x="40" y="172">and a PDF attachment each.</text></g>
+    <circle cx="480" cy="150" r="20" fill="#2b2725" stroke="#f2b84b" stroke-width="2"/>
+    <path d="M471 150h16m-6-6 6 6-6 6" stroke="#f2b84b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="520" y="96" fill="#f2b84b" font-size="12" font-weight="600" letter-spacing="2">AFTER</text>
+    <text x="520" y="160" fill="#fbf9f5" font-size="56" font-weight="700">2 months</text>
+    <g fill="#d8d1c7" font-size="15"><text x="520" y="190">from idea to production.</text><text x="520" y="212">A person still posts every invoice.</text></g>
+  </g>
+</g>
+<rect x=".5" y=".5" width="879" height="249" rx="11.5" fill="none" stroke="#2b2725"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="152" viewBox="0 0 880 152" role="img" aria-label="Bridge flow: invoice archive, PDF text, vendor and ledger mapping, AI suggestions, draft purchase invoice in Business Central, a person posts it.">
+<defs><clipPath id="r"><rect width="880" height="152" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="880" height="152" fill="#f6f4f0"/>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="36" y="40" fill="#7d746b" font-size="13" font-weight="600" letter-spacing="2">PAYROLL BOT ARCHIVE → DYNAMICS 365 BUSINESS CENTRAL</text>
+    <g font-size="13">
+      <g fill="none" stroke="#c9c1b6"><rect x="36" y="66" width="120" height="64" rx="8"/><rect x="176" y="66" width="120" height="64" rx="8"/><rect x="316" y="66" width="120" height="64" rx="8"/><rect x="456" y="66" width="120" height="64" rx="8" stroke="#b9770e"/><rect x="596" y="66" width="120" height="64" rx="8"/></g>
+      <rect x="736" y="66" width="108" height="64" rx="8" fill="#b9770e"/>
+      <g fill="#1f1b18" text-anchor="middle">
+        <text x="96" y="94">Invoice</text><text x="96" y="112">archive</text>
+        <text x="236" y="94">PDF text</text><text x="236" y="112">extraction</text>
+        <text x="376" y="94">Vendor, G/L,</text><text x="376" y="112">cost centre</text>
+        <text x="516" y="94">AI</text><text x="516" y="112">suggests</text>
+        <text x="656" y="94">Draft invoice</text><text x="656" y="112">with the PDF</text>
+      </g>
+      <g fill="#1f1b18" text-anchor="middle" font-weight="700"><text x="790" y="94">A person</text><text x="790" y="112">posts it</text></g>
+      <g stroke="#7d746b" stroke-width="1.5"><path d="M158 98h16M298 98h16M438 98h16M578 98h16M718 98h16"/></g>
+    </g>
+  </g>
+</g>
+<rect x=".5" y=".5" width="879" height="151" rx="11.5" fill="none" stroke="#ddd6cc"/>
+</svg>

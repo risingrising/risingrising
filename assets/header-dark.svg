@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-label="Denis Mironov, AI Automation Specialist.">
+<defs><clipPath id="r"><rect width="880" height="176" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="880" height="176" fill="#2b2725"/>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="40" y="78" fill="#fbf9f5" font-size="44" font-weight="700">Denis Mironov</text>
+    <text x="40" y="116" fill="#f2b84b" font-size="20" font-weight="600">AI Automation Specialist<tspan fill="#b9b1a6" font-weight="400" font-size="15" letter-spacing="1.5" dx="16">HR · FINANCE · BACK OFFICE</tspan></text>
+    <text x="40" y="148" fill="#b9b1a6" font-size="14">An internal HR platform · invoices into the ERP · an MCP connector · an agent factory</text>
+  </g>
+</g>
+<rect x=".5" y=".5" width="879" height="175" rx="11.5" fill="none" stroke="#2b2725"/>
+</svg>

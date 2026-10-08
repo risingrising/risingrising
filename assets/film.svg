@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Still from the short film The Last Human Job: a line of code, while night keep light, over faint code.">
+<defs><clipPath id="r"><rect width="880" height="250" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="880" height="250" fill="#0b0d14"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8b93a7" opacity=".22">
+    <text x="470" y="40">import { stars } from &quot;night&quot;;</text>
+    <text x="560" y="66">await tide.turn();</text>
+    <text x="430" y="92">let lost = 1;</text>
+    <text x="610" y="118">echo &quot;good night&quot;</text>
+    <text x="380" y="206">sleep(3);</text>
+    <text x="520" y="226">// written at 3:12</text>
+    <text x="700" y="206">exit -m &quot;still here&quot;</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#eef1f7" font-size="22"><text x="440" y="166" text-anchor="middle">while (night) { keep(light); }</text></g>
+  <g font-family="Georgia,'Times New Roman',serif">
+    <text x="40" y="78" fill="#eef1f7" opacity=".16" font-size="64" font-style="italic">01</text>
+    <text x="40" y="112" fill="#eef1f7" font-size="26" font-style="italic">The Last Human Job</text>
+  </g>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="40" y="138" fill="#8b93a7" font-size="12" font-weight="600" letter-spacing="3">DEVELOPER</text>
+    <text x="40" y="222" fill="#8b93a7" font-size="13">Short film · code-generated video · on LinkedIn</text>
+  </g>
+  <circle cx="820" cy="190" r="26" fill="none" stroke="#eef1f7" stroke-width="1.5" opacity=".8"/>
+  <path d="M813 178v24l20-12z" fill="#eef1f7"/>
+</g>
+<rect x=".5" y=".5" width="879" height="249" rx="11.5" fill="none" stroke="#0b0d14"/>
+</svg>
