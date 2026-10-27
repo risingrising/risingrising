@@ -95,21 +95,10 @@ How the factory works is the one thing I keep off this page. Ask me on a call an
 
 `Claude Code` `Codex` `GitHub Actions`
 
-## What my systems are not allowed to do
-
-| Not allowed | Instead |
-|---|---|
-| Post an invoice to the books | Bridge only creates drafts. A person posts. |
-| Decide a review score, grade or salary | AI drafts text. People set every score and number. |
-| Show data a person can't see on the site | AI reads run with that person's own access. |
-| Approve requests in bulk without a look | Bulk actions show a preview and need a second confirmation. |
-| Touch production | Agents can't. Release is my call. |
-
 ## Smaller tools
 
 | What | What it does | Status |
 |---|---|---|
-| BambooHR MCP server (co-maintainer) | Employees and HR use the HR system from Claude and ChatGPT with their own login. Python, FastMCP. | In use |
 | Hiring pipeline agents | One grades interview answers against a role's question bank, another helps hiring managers write role profiles. The recruiter makes the call. | In use |
 | Scheduled Claude routines | Seven scheduled tasks, including weekly LinkedIn analytics and a morning brief. | Running |
 | Bali Quest (internal AI hackathon) | A 14-day team fitness game where AI plans quests, checks workouts and redraws each team's villa daily. Built in 5 days. | Shipped |
