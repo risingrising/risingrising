@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img alt="12,000+ contributions in the last year, almost all in private company repos. A marker shows March 11, 2026, when the HR platform started." src="assets/contributions-light.svg" width="100%">
+  <img alt="12,000+ contributions in the last year, almost all in private company repos. Markers show March 11, 2026, when the HR platform started, and May 2026, when I moved from recruiting to AI Automation." src="assets/contributions-light.svg" width="100%">
 </picture>
 
 ## Cases
