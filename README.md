@@ -89,7 +89,7 @@ No model decides anything about a person. AI helps draft goals and review text, 
   <img alt="Agent factory. Before: separate Claude Code and Codex sessions, each started by hand, and work stopped whenever I did. After: 57 PRs merged in a single day. Release is still one human click." src="assets/agent-factory-light.svg" width="100%">
 </picture>
 
-**Idea.** Bring Claude Code and Codex into one process that keeps working without me. Every task passes the same checks, and the only human step is the release.
+**Idea.** Bring Claude Code and Codex into one process that keeps working in the loop. ChatGPT models reviews Claude's work
 
 How the factory works is the one thing I keep off this page. Ask me on a call and I'll show it running.
 
